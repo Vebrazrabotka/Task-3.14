@@ -1,4 +1,4 @@
-[< К содержанию](readme.md)
+[< К содержанию](readme.md):closed_book:
 
 ## git add
 

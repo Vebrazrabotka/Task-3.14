@@ -7,16 +7,17 @@ LICENSE: [MIT](./license.md)
 ---
 ### Содержание:
 
-:one: [Что такое GIT?](GIT.md)
-:two: [Как задать имя пользователя и адрес электронной почты?](/Name.md)
-:three: [Команда git  add](./add.md)
-:four: [Команда git commit](commit.md)
-:five: 
-:six:
-:seven:
-:eight:
-:nine:
-:keycap_ten:
++ :one: [Что такое GIT?](GIT.md)
++ :two: [Как задать имя пользователя и адрес электронной почты?](/Name.md)
++ :three: [Файл gitignore](gitignore.md)
++ :four: [Команда git commit](commit.md)
++ :five:[Команда git  add](./add.md)
++ :six: [Команда git status](status.md)
++ :seven: [Команда git log](log.md)
++ :eight: [Команда git show](show.md)
++ :nine: [Команда git diff](diff.md)
++ :keycap_ten: [Команда git rm](rm.md)
++ :one::one: [Команда git revet](revet.md)
 
 ---
 
